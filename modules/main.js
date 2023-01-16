@@ -1,4 +1,4 @@
-/* eslint-disable */
+/* eslint-disable class-methods-use-this */
 
 export default class BookList {
   constructor() {
