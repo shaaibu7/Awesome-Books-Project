@@ -133,7 +133,7 @@ Feel free to check the [issues page](../../issues/).
 
 🙏 Acknowledgments
 
-I appreciate Microverse for providing the learning resources for this exercise, and my coding partners **Shaaibu Suleiman** for helping me out when I ran into problems.
+I appreciate Microverse for providing the learning resources for this exercise, and my coding partners **Dhiraj Singha** for helping me out when I ran into problems.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

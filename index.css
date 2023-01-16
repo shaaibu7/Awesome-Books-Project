@@ -65,6 +65,10 @@ body {
   height: 100%;
 }
 
+.date-section {
+  font-size: 15px;
+}
+
 /* Book List section */
 
 .book-store {
