@@ -65,7 +65,7 @@ A Browser
 
 Clone this repository to your desired folder:
 
-[`dhirajsingha143/Awesome-Books`](https://github.com/dhirajsingha143/Awesome-books.git)
+[`shaaibu7/Awesome-Books-Project`](https://github.com/shaaibu7/Awesome-Books-Project.git)
 
 ### Install
 
@@ -86,7 +86,7 @@ To run the project, execute the following command:
 <!-- <img src="" alt="logo" width="140"  height="auto" /> -->
 <br/>
 
-- [Visit here](https://deploy-preview-1--iridescent-kleicha-f17af8.netlify.app/) for demo verson.
+- [Visit here](https://shaaibu7.github.io/Awesome-Books-Project/) for demo verson.
 
 <!-- AUTHORS -->
 
@@ -133,7 +133,7 @@ Feel free to check the [issues page](../../issues/).
 
 🙏 Acknowledgments
 
-I appreciate Microverse for providing the learning resources for this exercise, and my coding partners **Dhiraj Singha** for helping me out when I ran into problems.
+I appreciate Microverse for providing the learning resources for this exercise, and my coding partner **Dhiraj Singha** for collaborating on this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
