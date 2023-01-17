@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="index.css">
+  <title>Awesome Books Website</title>
+</head>
+<body class="container padding-x">
+    <header class="nav-container">
+      <nav class="nav-item padding-x">
+        <h3 class="logo">Awesome Books Store</h3>
+        <ul class="nav-link">
+          <li><a id="link-list" href="#">List</a></li>
+          <hr class="vertical-line">
+          <li><a id="link-add" href="#">Add New</a></li>
+          <hr class="vertical-line">
+          <li><a id="link-contact" href="#">Contact</a></li>
+        </ul>
+      </nav>
+      <p class="date-section"></p>
+    </header>
+  
+    <main>
+      <section class="book-store" id="list">
+        <h1 class="headline">Awesome Books</h1>
+        <ul class="books-container">
+        </ul>
+      </section>
+  
+      <section class="book-form" id="add-book">
+        <h2 class="sub-headline">Add a new book</h2>
+        <form class="form-container" id="form-container">
+          <input class="title" type="text" placeholder="Title" id="title" required><br><br>
+          <input class="author" type="text" placeholder="Author" id="author" required><br><br>
+          <button class="add-btn" type="submit" id="add-btn">Add Book</button>
+        </form>
+      </section>
+
+      <section class="contact" id="contact">
+        <h2 class="contact-headline">Contact Information</h2>
+        <p class="contact-info">Do have any question or you just want to say "Hello"?<br>You can reach out to us!</p>
+        <ul class="contact-list">
+          <li>Our Email: shaaibusuleiman9@gmail.com</li>
+          <li>Our phone no: +2347039606814</li>
+          <li>Our address: Hollowway road 22,84503, London, UK</li>
+        </ul>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>&copy;copyright 2023</p>
+    </footer>
+    <script type="module" src="index.js"></script>
+</body>
+</html>
